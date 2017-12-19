@@ -3,5 +3,5 @@ def recurse(param):
     if param < 1024:
         recurse(param*param)
 
-recurse(2)
+recurse(4)
 
